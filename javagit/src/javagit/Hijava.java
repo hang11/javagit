@@ -5,5 +5,6 @@ public class Hijava {
 		System.out.println("Hello git");
 		System.out.println("Hello git");
 		System.out.println("Hello git");
+		System.out.println("devel");
 	}
 }
